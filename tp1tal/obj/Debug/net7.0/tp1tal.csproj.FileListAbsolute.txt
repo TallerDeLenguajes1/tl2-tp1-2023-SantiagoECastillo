@@ -1,0 +1,14 @@
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\bin\Debug\net7.0\tp1tal.exe
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\bin\Debug\net7.0\tp1tal.deps.json
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\bin\Debug\net7.0\tp1tal.runtimeconfig.json
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\bin\Debug\net7.0\tp1tal.dll
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\bin\Debug\net7.0\tp1tal.pdb
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.AssemblyInfoInputs.cache
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.AssemblyInfo.cs
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.csproj.CoreCompileInputs.cache
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.dll
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\refint\tp1tal.dll
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.pdb
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\tp1tal.genruntimeconfig.cache
+D:\Facultdad\3_año-2\Taller_de_lenguajes_2\Semana_1\TP1\tl2-tp1-2023-SantiagoECastillo\tp1tal\obj\Debug\net7.0\ref\tp1tal.dll
