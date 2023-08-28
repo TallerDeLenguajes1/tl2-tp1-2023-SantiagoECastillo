@@ -26,7 +26,7 @@ public class Cadete
             Console.WriteLine("El pedido fue agregado");
         }
         public int jornalACobrar(){
-            int cantidadDePedidos = (this.listadoPedidos!.Count() * 500);
+            int cantidadDePedidos = (listadoPedidos!.Count()) * 500;
             return cantidadDePedidos;
         }
     }   
