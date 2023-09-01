@@ -45,3 +45,10 @@ void crearPedido(){
     return;
 }
 
+void asignarPedido(Pedido pedidoParaCadete) {
+     
+}
+
+void reasignarPedido(Pedido pedidoReasignado){
+    
+}

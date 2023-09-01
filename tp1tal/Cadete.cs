@@ -9,7 +9,7 @@ public class Cadete
         private string? direccion;
         private string? telefono;
 
-        private List<Pedido>? listadoPedidos;
+  
 
 
         public Cadete(int id, string nombre, string direccion, string telefono){
@@ -17,10 +17,11 @@ public class Cadete
             this.nombre = nombre;
             this.direccion = direccion;
             this.telefono = telefono;
-            this.listadoPedidos = new List<Pedido>(); 
+            /*this.listadoPedidos = new List<Pedido>(); */
 
         }
-    
+
+        /*
         public void agregarPedido(Pedido pedidoNuevo){
             this.listadoPedidos?.Add(pedidoNuevo);
             Console.WriteLine("El pedido fue agregado");
@@ -28,6 +29,11 @@ public class Cadete
         public int jornalACobrar(){
             int cantidadDePedidos = (listadoPedidos!.Count()) * 500;
             return cantidadDePedidos;
+        }
+        */
+
+        public void mostrarCadetes(){
+
         }
     }   
 
