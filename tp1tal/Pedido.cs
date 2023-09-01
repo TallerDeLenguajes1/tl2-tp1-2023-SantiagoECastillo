@@ -1,4 +1,5 @@
 using System.ComponentModel;
+using Cadetes;
 using Clientes;
 
 namespace Pedidos
@@ -18,6 +19,7 @@ public class Pedido
         private Estados estado;
 
         private Cliente? cliente;
+        private Cadete cadete;
 
         public Pedido(int numero, string observaciones, string nombre, string direccion, string telefono, string datosRefDireccion){
             this.numero =  numero;
