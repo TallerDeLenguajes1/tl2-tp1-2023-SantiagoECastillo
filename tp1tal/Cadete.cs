@@ -9,9 +9,6 @@ public class Cadete
         private string? direccion;
         private string? telefono;
 
-  
-
-
         public Cadete(int id, string nombre, string direccion, string telefono){
             this.id = id;
             this.nombre = nombre;
@@ -19,6 +16,10 @@ public class Cadete
             this.telefono = telefono;
             /*this.listadoPedidos = new List<Pedido>(); */
 
+        }
+
+        public int GetId(){
+            return id;
         }
 
         /*

@@ -12,20 +12,22 @@ public class Pedido
             Entregado,
             Cancelado,
         }
-        private int numero;
-
+        private int idPedido;
+        private int idCadete;
         private string? observaciones;
-
         private Estados estado;
-
         private Cliente? cliente;
-        private Cadete cadete;
 
-        public Pedido(int numero, string observaciones, string nombre, string direccion, string telefono, string datosRefDireccion){
-            this.numero =  numero;
+        
+        public Pedido(int idPedido, string observaciones, string nombre, string direccion, string telefono, string datosRefDireccion, int idCadete){
+            this.idPedido = idPedido;
             this.observaciones = observaciones;
             estado = Estados.Pendiente;
             cliente = new Cliente(nombre, direccion, telefono, datosRefDireccion);
+            this.idCadete = idCadete;
+        }
+        public int GetId(){
+            return idPedido;
         }
 
         public void verDireccionCliente(){
@@ -51,6 +53,8 @@ public class Pedido
                 estado = Estados.Cancelado;
             }
         }
+
+ 
     }
 }
 
